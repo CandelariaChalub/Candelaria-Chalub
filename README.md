@@ -41,11 +41,12 @@ Mi visión es crear soluciones transformadoras y guiar equipos hacia alto desemp
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" title="MySQL" width="40" height="40"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" title="PostgreSQL" width="40" height="40"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" title="Git" width="40" height="40"/>
-  <!-- AWS -->
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original.svg" title="AWS" alt="AWS" width="40" height="40"/>
+<!-- AWS -->
+<img src="https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazonaws&logoColor=white" alt="AWS" width="90"/>
 
 <!-- Axios -->
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/axios/axios-original.svg" title="Axios" alt="Axios" width="40" height="40"/>
+<img src="https://img.shields.io/badge/Axios-5A29E4?style=flat-square&logo=axios&logoColor=white" alt="Axios" width="90"/>
+
 
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" title="Spring Boot" width="40" height="40"/>
 </div>
@@ -79,7 +80,7 @@ Mi visión es crear soluciones transformadoras y guiar equipos hacia alto desemp
 | Proyecto                         | Descripción                                                                 | Stack                                              |
 |----------------------------------|-----------------------------------------------------------------------------|----------------------------------------------------|
 | [Ekiria](https://github.com/CandelariaChalub/ekiria)             | Plataforma e-commerce con sección de blog, gestión de catálogo y pagos.      | React, PHP, Sass, Node.js, Axios, HTML, AWS (RDS, S3, CloudFront, API Gateway) |
-| [COEF App]((https://coefdigital.com/))         | App logística para gestión de construcciones en LATAM.                      | Java, Spring Boot, React, PostgreSQL               |
+| [COEF App](https://coefdigital.com/)         | App logística para gestión de construcciones en LATAM.                      | Java, Spring Boot, React, PostgreSQL               |
 | [Balcam’s Gym Ecommerce](https://github.com/CandelariaChalub/Balcam-sGymEcommerce) | E-commerce temático de gimnasio.                                            | Vue.js, Bootstrap, Node.js                         |
 | [CandyBank](https://github.com/CandelariaChalub/CandyBank)       | Plataforma de homebanking interactivo.                                      | HTML5, CSS3, JavaScript                            |
 | [Franco Petshop](https://github.com/CandelariaChalub/Franco-Petshop)    | E-commerce de mascotas consumiendo APIs externas.                            | React, Node.js, Sass                               |
