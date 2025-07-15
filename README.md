@@ -41,11 +41,13 @@ Mi visión es crear soluciones transformadoras y guiar equipos hacia alto desemp
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" title="MySQL" width="40" height="40"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" title="PostgreSQL" width="40" height="40"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" title="Git" width="40" height="40"/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original.svg"
-     title="AWS"
-     alt="AWS"
-     width="40"
-     height="40"/>
+<img
+  src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/amazonwebservices/amazonwebservices-original.svg"
+  title="AWS"
+  alt="AWS"
+  width="40"
+  height="40"
+/>
 
   <img src="https://cdn.simpleicons.org/axios/white" title="Axios" alt="Axios" width="40" height="40"/>
 
